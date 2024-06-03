@@ -2,7 +2,6 @@ import keyboard
 import mouse
 import time
 
-
 def change():
     global work
     work = not work
